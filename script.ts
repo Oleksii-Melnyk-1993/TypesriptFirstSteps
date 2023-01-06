@@ -1,4 +1,9 @@
-console.log("Hello world");
-console.log("Goodbye JS");
-console.log("Fuck off");
-throw Error();
+let a = 1;
+a = 1 + 2;
+let b = "Bye";
+b = "Hello";
+let c = true;
+c = false;
+
+let d: null = null;
+d = null;
